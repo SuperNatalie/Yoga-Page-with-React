@@ -1,0 +1,33 @@
+#heroSection {
+  display: flex;
+  margin-right: 5vw;
+  margin-left: 5vw;
+  margin-top: 5vw;
+}
+
+#text {
+  width: 70vw;
+  height: 25vh;
+  padding-right: 10vw;
+  padding-left: 5vw;
+}
+
+#author {
+  float: right;
+  font-weight: bold;
+}
+
+#fotoBox {
+  width: 25vw;
+  margin-right: 5vw;
+}
+
+#foto {
+  height: 22vw;
+  width: auto;
+}
+
+#fotoName {
+  font-weight: bold;
+  text-align: center;
+}

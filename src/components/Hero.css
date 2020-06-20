@@ -1,0 +1,38 @@
+#hero {
+  margin-top: 5vh;
+  margin-right: 5vw;
+  margin-left: 5vw;
+  display: flex;
+  align-items: flex-end;
+}
+
+h1 {
+  font-size: 4vw;
+}
+p {
+  font-weight: lighter;
+  font-size: 2vw;
+}
+
+#DivH1 {
+  width: 36vw;
+}
+
+#imgYoga {
+  width: 45vw;
+}
+
+img {
+  width: 40vw;
+}
+
+#trialButton {
+  width: 18vw;
+  height: 7vw;
+  background-color: #6c63ff;
+  color: white;
+  font-family: "Rokkitt", serif;
+  font-weight: bold;
+  font-size: 2vw;
+  margin-bottom: 60px;
+}

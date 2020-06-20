@@ -1,0 +1,23 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+#footer {
+  margin-top: 5vh;
+  height: 20vw;
+  background-color: #dcdaff;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#footerUL {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
+li {
+  list-style: none;
+}
